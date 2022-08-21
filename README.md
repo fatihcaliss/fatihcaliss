@@ -43,6 +43,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fatihcaliss&theme=flag-india&show_icons=true" >
 </div> -->
 
+<div align="center">
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
