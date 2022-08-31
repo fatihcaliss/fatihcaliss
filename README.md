@@ -1,6 +1,6 @@
 ### Hi, I'm Fatih 👋
 
-- 🔭 I'm currently Frontend Developer at Servicepark.
+- 🔭 I am Frontend Developer at Servicepark.
 - 🌱 I’m currently learning  django.
 - 💬 Ask me anything about IT.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatih-%C3%A7al%C4%B1%C5%9F-436a92224/) || fthcls@gmail.com
