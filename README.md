@@ -1,6 +1,6 @@
 ### Hi, I'm Fatih 👋
 
-- 🔭 I am Frontend Developer at Servicepark.
+- 🔭 I am Frontend Developer at [Fazla](https://fazla.com/en/).
 - 🌱 I’m currently learning  React Native.
 - 💬 Ask me anything about IT.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatih-%C3%A7al%C4%B1%C5%9F-436a92224/) || fthcls@gmail.com
