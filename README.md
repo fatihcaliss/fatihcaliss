@@ -40,8 +40,33 @@
 </table>
 </div>
 
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block"> More About Me on GitHub👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<details>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fatihcaliss&theme=transparent&border_radius=4.4&exclude_days=Sun&card_width=390)](https://git.io/streak-stats)
+
+</details>
+<details>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=fatihcaliss&theme=discord" alt="MelvinAguilar" />
+</details>
+
+<details>
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=fatihcaliss&show_icons=true&theme=radical&count_private=true" alt="fatihcaliss" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihcaliss&layout=compact&theme=radical" alt="fatihcaliss" height="175">
+</details>
+
 <!-- <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fatihcaliss&theme=flag-india&show_icons=true" >
+<img src="https://github-readme-stats.vercel.app/api?username=fatihcaliss&theme=flag-turkey&show_icons=true" >
 </div> -->
 
 <div align="center">
