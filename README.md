@@ -59,12 +59,6 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=fatihcaliss&theme=discord" alt="MelvinAguilar" />
 </details>
 
-<details>
-<summary><b>⚡ Github Public Stats</b></summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=fatihcaliss&show_icons=true&theme=radical&count_private=true" alt="fatihcaliss" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihcaliss&layout=compact&theme=radical" alt="fatihcaliss" height="175">
-</details>
-
 <!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=fatihcaliss&theme=flag-turkey&show_icons=true" >
 </div> -->
