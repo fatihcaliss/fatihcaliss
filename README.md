@@ -9,7 +9,7 @@
           <p>- 📫 How to reach me: <a href="https://www.linkedin.com/in/fatih-%C3%A7al%C4%B1%C5%9F-436a92224/" target="_blank">LinkedIn</a> || <a href="fthcls@gmail.com" target="_blank">fthcls@gmail.com</a> </p>
       </td>
       <td align="center" style="padding=0;width=50%;">
-       <a href="https://app.daily.dev/fatihcalis"><img src="https://api.daily.dev/devcards/v2/BAU7lTolenMHcVvSxybQf.png?type=default&r=ld4" width="356" alt="Fatih Çalış's Dev Card"/></a>
+       <a href="https://app.daily.dev/fatihcalis"><img src="https://github.com/fatihcaliss/fatihcaliss/blob/devcard/devcard.png?raw=true" width="356" alt="Fatih Çalış's Dev Card"/></a>
       </td>
     </tr>
 </table>
