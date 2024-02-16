@@ -19,7 +19,7 @@ jobs:
       contents: write
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@3.0.0
+        uses: dailydotdev/action-devcard@2.0.2
         with:
           user_id: ${{ secrets.USER_ID }}
           commit_branch: devcard
