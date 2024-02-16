@@ -1,13 +1,21 @@
-### Hi, I'm Fatih 👋
+<div align="center">
+<table>
+    <tr>
+      <td align="left" style="padding=0;width=50%;">     
+          <p> Hi, I'm Fatih 👋</p>
+          <p>- 🔭 I am Frontend Developer and Open to Work now.</p>
+          <p> - 🌱 I’m currently learning  React Native.</p>
+          <p>- 💬 Ask me anything about IT.</p>
+          <p>- 📫 How to reach me: <a href="https://www.linkedin.com/in/fatih-%C3%A7al%C4%B1%C5%9F-436a92224/" target="_blank">LinkedIn</a> || <a href="fthcls@gmail.com" target="_blank">fthcls@gmail.com</a> </p>
+      </td>
+      <td align="center" style="padding=0;width=50%;">
+       <a href="https://app.daily.dev/fatihcalis"><img src="https://api.daily.dev/devcards/v2/BAU7lTolenMHcVvSxybQf.png?type=default&r=ld4" width="356" alt="Fatih Çalış's Dev Card"/></a>
+      </td>
+    </tr>
+</table>
+</div>
 
-- 🔭 I am Frontend Developer and Open to Work now.
-- 🌱 I’m currently learning  React Native.
-- 💬 Ask me anything about IT.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatih-%C3%A7al%C4%B1%C5%9F-436a92224/) || fthcls@gmail.com
-
-
-
-- ![](https://komarev.com/ghpvc/?username=fatihcaliss&blue)
+![](https://komarev.com/ghpvc/?username=fatihcaliss&blue)
 
 ## Languages & Tools  🛠
 
@@ -45,7 +53,6 @@
     <summary><h2 style="display: inline-block"> More About Me on GitHub👨🏻‍💻</h2></summary>
   </ul>
 </div>
-
 <details>
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
