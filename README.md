@@ -30,15 +30,6 @@
 </table>
 </div>
 
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block"> More About Me on GitHub👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<details>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=fatihcaliss&theme=discord" alt="MelvinAguilar" />
-</details>
 
 <!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=fatihcaliss&theme=flag-turkey&show_icons=true" >
