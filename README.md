@@ -35,16 +35,8 @@
     <summary><h2 style="display: inline-block"> More About Me on GitHub👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<details>
-<summary><b>🔥 Streak Stats</b></summary>
-<br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fatihcaliss&theme=transparent&border_radius=4.4&exclude_days=Sun&card_width=390)](https://git.io/streak-stats)
-
-</details>
 <details>
-<summary><b>🏆 Github Trophies</b></summary>
-<br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=fatihcaliss&theme=discord" alt="MelvinAguilar" />
 </details>
 
