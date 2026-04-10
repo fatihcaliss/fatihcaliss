@@ -3,7 +3,7 @@
     <tr>
       <td align="left" style="padding=0;width=50%;">     
           <p> Hi, I'm Fatih 👋</p>
-          <p>- 🔭 I am Frontend Developer at <a href="https://www.linkedin.com/company/baykai/" target="_blank"> BaykAI </p>
+          <p>- 🔭 I am Frontend Developer at <a href="https://www.linkedin.com/company/ngaming/posts/?feedView=all" target="_blank"> Ngaming </p>
           <p>- 💬 Ask me anything about IT.</p>
           <p>- 📫 How to reach me: <a href="https://www.linkedin.com/in/fatih-%C3%A7al%C4%B1%C5%9F-436a92224/" target="_blank">LinkedIn</a> || <a href="fthcls@gmail.com" target="_blank">fthcls@gmail.com</a> </p>
       </td>
